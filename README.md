@@ -2,16 +2,56 @@
 
 This repository contains a collection of hands‑on Azure labs that I’m creating to deepen my understanding of cloud services, administration, and security. While completing my Cybersecurity and Network Technology diploma, I gained exposure to core Azure concepts, but there were many areas I didn’t have the chance to fully explore. These labs are my way of expanding that foundation and developing real, practical cloud experience.
 
-Janurary - April 2026 
 
-I'm in my final term of school and one of my current courses for this repository is covering the CompTIA Cloud+ through their learn and lab platform. Not only that, we get to use the Azure for Student with the free credits after signing up and confirming our student statud. 
+# Azure Infrastructure Learning Lab
+Period: January 2026
 
-As for right now it, it will be heavily focused on Azure. I will be updating as much as I can by updating this main branch README as well as the other branched in their respective week.
+# What I learned this month
+Fundamental cloud service models and Azure resource types (Resource Group, Virtual Networks, Network Security Groups, Virtual Machines)
 
-January 2026 - Week 1
+Azure Portal navigation and resource management
 
-Lab 1
+Configuiring resources (Virtual Machines - Disks and sizes)
 
-In this lab, I will create a virtual machinne and explore Azure Cloud components (Resource Group, Virtual Net, Network Security Group, Network Interface Card, Private IPm Public IP, and other related sources)
+# January Notes
 
-The outcome of this lab is to explore the Azure platform and understand each of the componnents
+Week 1/2:
+
+We are learning how to navigate throught the Azure Portal and deploy: Resource Groups, Virtual Networks, Network Security Groups (Subnets/Inbound rules/Outbound rules), Storages, Virtual Machines, Runbooks. 
+
+Week 3:
+
+As much as I liked the hands on labs and built some knowldege and practical skills, I did't particulary like how long it took to dpeloy these resources in the Portal interface. I really like the runbook and how to automate the task to start and stop a virtual machine. I wondered if I can automate other tasks 
+
+Week 4:
+
+At this point I'm really taking interest in the cloud course that we are learning. This is a path I want to take with networking and security 
+
+
+# Azure Infrastructure Learning Lab
+Period: February 2026
+
+# What I learned this month
+Build more practical skills through the labs (Blob Storage and Shares, Runbooks, Cost Estimation)
+
+Infrastructure as Code (Bicep/ARM templates) principles and deployment through the Azure Portal
+
+Using the CompTIA labs to learn more about Azure and AWS
+
+
+# Febuary Notes
+
+Week 1:
+
+I'm currently learning through the Mircosoft Learn for the AZ 900 certification and the cloud course. I got to one module thats explaining about ARM templates and it was really intriguing but really confusing. I will be spending more time on this section.
+
+I looked at other sources (YouTube and AI) just to further understand thes templates and then start trying to write them out on Visual Studio Code. As I was following a guide, I realize that the ARM extension is deprcated and to use the bicep extension.
+
+In our labs this week I learned how to explore JSON code and understand what it is doing. Luckly with the previous Python course and DevOps course, it wasnt to hard. Ww also deployed the JSOn templates throught the Portal, but I wanted more of a challenge..
+
+I've been practicing a lot on how to use bicep and deploy through the Azure CLI this past week and had this 'aha!' moment. There is this one video https://www.youtube.com/watch?v=_yvb6NVx61Y from a channel called 'John Savill's Technical Training' that really help me understand what and how to use bicep.
+
+I feel pretty confident in deploying the bicep and JSON file through the Azure commmand line. I will be practicing more each day adding a little more each time. 
+
+
+
