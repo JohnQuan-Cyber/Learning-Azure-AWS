@@ -58,4 +58,4 @@ I feel pretty confident in deploying the bicep and JSON file through the Azure c
 
 Week 2:
 
-Decided to create a few files (Enterprise.bicep files) to see if I can deploy the files through the CLI. It will be posted in a new branch
+Decided to create a few files (Enterprise.bicep files) to see if I can deploy the files through the CLI. It will be posted in a new branch called VSCode-Azure-CLI-Deployment
